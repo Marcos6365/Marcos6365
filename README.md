@@ -1,6 +1,9 @@
 Olá, Me chamo Marcos!
 Bem-vindo ao meu perfil Github!
 
+- Atualmente estou aprendendo html e css...
+- Possuo certo conhecimento em Python e Mysql...
+
 
 <div>
 <a href="https://github.com/Marcos6365">
@@ -9,6 +12,5 @@ Bem-vindo ao meu perfil Github!
 </div>
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
-- Atualmente estou aprendendo html e css...
-- Possuo certo conhecimento em Python e Mysql...
+  
+![Snake animation](https://github.com/Marcos6365/Marcos6365/blob/output/github-contribution-grid-snake.svg)
